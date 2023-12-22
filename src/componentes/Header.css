@@ -1,0 +1,49 @@
+.logotipo {
+  justify-self: start;
+  width: 150px;
+  height: 75px;
+}
+div {
+  margin: auto;
+  align-items: start;
+  color: #ffffff;
+  font-size: px;
+}
+a {
+  color: #ffffff;
+  font-size: 25px;
+  text-decoration: none;
+  margin-right: 10px;
+  margin-right: 20px;
+}
+header {
+  display: flex;
+  width: 100%;
+  padding-bottom: 50px;
+}
+nav {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-grow: 4;
+}
+.suscripcion {
+  margin-top: 25px;
+  background-color: #02ffa1;
+  border-radius: 0.5rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  color: black;
+}
+.inicio {
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 25px;
+  color: #ffffff;
+  background-color: #141426;
+  border: 2px solid white;
+  border-radius: 999px;
+}
+.buscar {
+  margin-top: 25px;
+}

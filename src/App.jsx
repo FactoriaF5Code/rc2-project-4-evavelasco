@@ -1,11 +1,14 @@
-import './App.css'
+import "./App.css";
+import { Header } from "./componentes/header";
+import { Catalogopelis } from "./componentes/Catalogopelis";
 
 function App() {
   return (
     <>
-      <p>Proyecto 4 - Clon de Filmin</p>
+      <Header />
+      <Catalogopelis />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
